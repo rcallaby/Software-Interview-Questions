@@ -1,4 +1,4 @@
-<strong>Software-Interview-Questions</strong>
+<strong>Software Interview Questions</strong>
 
 This is a respository of potential software interview questions and their answers in multiple programming languages.
 
