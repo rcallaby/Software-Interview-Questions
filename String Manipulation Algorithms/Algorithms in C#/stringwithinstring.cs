@@ -1,3 +1,7 @@
+/*This solution needs some improvement. It tests whether or not there is a string within a string but doesn't return
+the index of the beginning character of the string within a string.
+ */
+
 
 int main(){
     

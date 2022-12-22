@@ -20,7 +20,7 @@ int isStringPalindrome(char str[])
 
 int main() 
 { 
-	char str[100];
+	char str;
 	
 	printf("Enter a string: ");
 	scanf("%s", str); 
