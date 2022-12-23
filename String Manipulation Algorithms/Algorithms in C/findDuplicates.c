@@ -4,7 +4,7 @@
 /* This is a possible solution to find duplicate characters in a given string. It may need work. 
 */
 
-void find_duplicates(char *str)
+void findDuplicates(char *str)
 {
     int i, j;
     int length = strlen(str);
@@ -26,7 +26,7 @@ int main(void)
     printf("Enter a string: \n");
     scanf("%s", str);
 
-    find_duplicates(str);
+    findDuplicates(str);
 
     return 0;
 }
