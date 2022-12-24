@@ -9,7 +9,7 @@ int main(){
 }
 
 
-public static bool FindStringInAString(string str, string substr)
+bool findStringInAString(string str, string substr)
 {
     // Initialize the return value to false
     bool found = false;
