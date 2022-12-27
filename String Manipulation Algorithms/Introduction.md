@@ -8,7 +8,7 @@ Some of the questions asked include some of the following or variations of the f
 <p>Reverse a string using recursion</p>
 <p>Find duplicate characters in the string</p>
 <p>Count the number of vowels in a given string</p>
-<p>Count the number of constanants in a given string</p>
+<p>Count the number of consonants in a given string</p>
 <p>Count the number of occurances of a particular character in a string</p>
 <p>Find a string within a string</p>
 <p>Given a string determine if it is a palindrome</p>
