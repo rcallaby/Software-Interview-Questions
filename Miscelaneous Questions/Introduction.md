@@ -1,1 +1,0 @@
-<strong>Miscelaneous Questions</strong>
