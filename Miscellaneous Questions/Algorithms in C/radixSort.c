@@ -9,7 +9,7 @@
     This is a possible solution to demonstrating the Radix sorting algorithm
 */
 
-int max(int arr[], int n)
+int maxi(int arr[], int n)
 {
     int max = arr[0];
     for (int i = 1; i < n; i++)
@@ -22,7 +22,7 @@ void radixSort(int arr[], int n)
 {
     int exp, m;
     int *output = (int *)malloc(n * sizeof(int));
-    m = max(arr, n);
+    m = maxi(arr, n);
     for (exp = 1; m/exp > 0; exp *= BASE)
     {
         int count[BASE] = {0};
