@@ -3,7 +3,7 @@
 /*
     This is a solution to how to perform a binary search in a given array of 120 integers
 */
-
+// TODO: May need to refactor this
 
 int binarySearch(int arr[], int l, int r, int x) 
 { 
@@ -40,6 +40,8 @@ int main (void)
     printf("Input element to be searched: \n");
     scanf("%d", &x);
 
+    // TODO: I want to change this
+    
     int result = binarySearch(arr, 0, n-1, x); 
     (result == -1)? printf("Element is not present in array") 
                    : printf("Element is present at index %d", 
