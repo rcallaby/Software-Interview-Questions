@@ -1,4 +1,5 @@
 # This is a demonstration of the bubblesort algorithm in Python without using any libraries.
+# TODO: This needs more test cases to confirm this is the best solution
 
 def bubblesort (arr):
 	# loop through entire array
