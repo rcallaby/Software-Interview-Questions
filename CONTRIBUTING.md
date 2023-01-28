@@ -1,8 +1,8 @@
 Contributing to the Software Interview Questions Repository
 
-We welcome and appreciate contributions to the Software Interview Questions Repository. Here are the guidelines we follow:
+Here are the guidelines we follow:
 
-Submitting a Question
+Submitting a Question or Solution
 
 Fork the repository
 Create a new branch for your contribution
@@ -28,4 +28,4 @@ We ask that you include a link to the repository in documentation or about pages
 Licensing
 By contributing to the Software Interview Questions Repository, you agree that your contributions will be licensed under the repository's license.
 
-Thank you for your contributions!
+We welcome and appreciate contributions to the Software Interview Questions Repository. Thank you for your contributions!
