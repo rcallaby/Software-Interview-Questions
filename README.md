@@ -14,12 +14,12 @@ You should be able to see multiple languages in this repository as it becomes fl
 Further, more programming languages will be added as I become more familiar with them and have the resources to handle them.
 
 The manner of which these questions/solutions are organized is a work in progress, however, here is a small outline of what is contained in this repository.
-Array Manipulation Algorithms
-Binary Search Algorithms
-Hash Tables
-Linked List
-Miscelleanous 
-String Manipulation Algorithms
+    * Array Manipulation Algorithms
+    * Binary Search Algorithms
+    * Hash Tables
+    * Linked List
+    * Miscelleanous 
+    * String Manipulation Algorithms
 
 As well, these algorithms or questions do not come from any one external source. While some may be inspired by what I find on the Internet many of these questions will be either widely known accepted questions or sufficently unique as they are modified from other sources.
 
