@@ -1,0 +1,13 @@
+# Histogram Equalization
+
+Histogram equalization is a commonly used image processing technique that adjusts the intensity levels of an image to improve its visual quality. The basic idea behind histogram equalization is to redistribute the intensity values of an image so that the resulting histogram is as flat as possible. This is achieved by mapping the original intensity values of the image to new values such that the number of pixels with a given intensity value is equalized.
+
+In image processing, an image is represented as a matrix of intensity values. The intensity values of an image determine its brightness and darkness levels. The histogram of an image is a graphical representation of the distribution of intensity values in an image. The histogram shows how many pixels have a given intensity value. A histogram that is very peaked or has a few large values indicates that the image is unevenly lit and might be difficult to interpret.
+
+Histogram equalization works by computing a cumulative histogram of the intensity values in an image. This cumulative histogram represents the number of pixels with intensity values less than or equal to a given value. Next, the cumulative histogram is transformed into a mapping function that maps the original intensity values to new values that are distributed more evenly. This mapping function is then applied to the original image to produce the equalized image.
+
+The equalized image has a more balanced distribution of intensity values compared to the original image. This results in a more uniform appearance of the image and improved visual quality. Additionally, histogram equalization can help to enhance the details in images that are poorly lit or have low contrast.
+
+Histogram equalization has several applications in computer vision and image processing. For example, it is often used to enhance the quality of images captured under challenging lighting conditions. In medical imaging, histogram equalization is used to improve the visibility of anatomical structures in medical images such as CT or MRI scans. It is also used in image recognition and computer vision systems to improve the performance of image classification algorithms.
+
+Histogram equalization is a simple but powerful image processing technique that adjusts the intensity values of an image to produce a more uniform distribution of intensity values. This results in improved visual quality and can help to enhance the details in poorly lit images. As a computer science student, understanding histogram equalization can be useful in various applications such as image recognition and computer vision systems.
