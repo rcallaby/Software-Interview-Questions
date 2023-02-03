@@ -9,3 +9,5 @@ One of the important properties of Cartesian Sets is that the number of elements
 Another important aspect of Cartesian Sets is their use in coordinate systems. In computer graphics, for instance, a two-dimensional coordinate system can be represented as a Cartesian product of two sets, where one set represents the x-axis and the other set represents the y-axis. The Cartesian product of these two sets will represent all possible points in the two-dimensional space.
 
 Cartesian Sets play a crucial role in computer science and mathematics. Its properties, such as the number of elements in the Cartesian product of two sets being equal to the product of the number of elements in each set, make it useful in various fields such as databases, algorithms, and computer graphics. Whether you're working on optimization problems or generating combinations of data, understanding Cartesian Sets is an essential part of a computer science education.
+
+This is why you should learn this subject!
