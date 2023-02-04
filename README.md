@@ -9,7 +9,8 @@ You should be able to see multiple languages in this repository as it becomes fl
 * C#
 * Python
 * JavaScript
-Further, more programming languages will be added as I become more familiar with them and have the resources to handle them.
+
++ Further, more programming languages will be added as I become more familiar with them and have the resources to handle them.
 
 ## Data Structures and Algorithms
 
