@@ -9,10 +9,9 @@ You should be able to see multiple languages in this repository as it becomes fl
 * C#
 * Python
 * JavaScript
+Further, more programming languages will be added as I become more familiar with them and have the resources to handle them.
 
 ## Data Structures and Algorithms
-    
-Further, more programming languages will be added as I become more familiar with them and have the resources to handle them.
 
 The manner of which these questions/solutions are organized is a work in progress, however, here is a small outline of what is contained in this repository.
 
