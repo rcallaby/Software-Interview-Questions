@@ -1,6 +1,6 @@
 # Software Interview Questions
 
-This is a respository of potential software interview questions and their answers in multiple programming languages. This was created to be a resource for anyone learning computer science, preparing for a job interview, or just for educational purposes for those that are curious. Over time, I hope this will be an excellent resource for those that need to learn this information. If you have something to add to this repository please feel free to contribute.
+This is a respository of potential data structures and algorithms and their implementations in multiple programming languages. This was created to be a resource for anyone learning computer science, preparing for a job interview, or just for educational purposes for those that are curious. Over time, I hope this will be an excellent resource for those that need to learn this information. If you have something to add to this repository please feel free to contribute.
 
 You should be able to see multiple languages in this repository as it becomes fleshed out in further detail. Such programming languages that this repository will include the following:
 
@@ -23,9 +23,9 @@ One of the most important concepts in algorithms is the idea of a sorting algori
 
 Another important concept in algorithms is searching. Searching algorithms are used to find a particular item in a collection of data. Some common searching algorithms include linear search and binary search. Linear search is a simple technique that searches for an item by checking each item in the collection one by one, while binary search is a more efficient algorithm that takes advantage of the sorted nature of the data to quickly find the item being searched for.
 
-In conclusion, Data Structures and Algorithms form the foundation of computer science. Understanding these concepts is crucial for developing efficient and effective software systems. Whether you are a computer science student or a professional software developer, having a solid understanding of data structures and algorithms is an essential part of your skillset.
+ Data Structures and Algorithms form the foundation of computer science. Understanding these concepts is crucial for developing efficient and effective software systems. Whether you are a computer science student or a professional software developer, having a solid understanding of data structures and algorithms is an essential part of your skillset.
 
-
+Further, more programming languages will be added as I become more familiar with them and have the resources to handle them.
 
 The manner of which these code examples are organized is a work in progress, however, here is a small outline of what is contained in this repository.
 
@@ -40,5 +40,5 @@ The manner of which these code examples are organized is a work in progress, how
 * Sets
 * String Manipulation Algorithms
 
-As well, these data structures and algorithms do not come from any one external source. While some may be inspired by what I find on the Internet many of these data structures and algorithms will be either widely known accepted data structures and algorithms or sufficently unique as they are modified from other sources.
+As well, these algorithms or questions do not come from any one external source. While some may be inspired by what I find on the Internet many of these questions will be either widely known accepted questions or sufficently unique as they are modified from other sources.
 
