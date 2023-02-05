@@ -1,6 +1,6 @@
 # Software Interview Questions
 
-This is a respository of potential software interview questions and their answers in multiple programming languages. This was created to be a resource for anyone learning computer science, preparing for a job interview, or just for educational purposes for those that are curious. Over time, I hope this will be an excellent resource for those that need to learn this information. If you have something to add to this repository please feel free to contribute.
+This is a respository of potential data structures and algorithms and their implementations in multiple programming languages. This was created to be a resource for anyone learning computer science, preparing for a job interview, or just for educational purposes for those that are curious. Over time, I hope this will be an excellent resource for those that need to learn this information. If you have something to add to this repository please feel free to contribute.
 
 You should be able to see multiple languages in this repository as it becomes fleshed out in further detail. Such programming languages that this repository will include the following:
 
