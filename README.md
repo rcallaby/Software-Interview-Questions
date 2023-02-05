@@ -27,7 +27,6 @@ Another important concept in algorithms is searching. Searching algorithms are u
 
 Further, more programming languages will be added as I become more familiar with them and have the resources to handle them.
 
-
 The manner of which these code examples are organized is a work in progress, however, here is a small outline of what is contained in this repository.
 
 * Array Manipulation Algorithms
