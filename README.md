@@ -42,3 +42,5 @@ The manner of which these code examples are organized is a work in progress, how
 
 As well, these data structures and algorithms do not come from any one external source. While some may be inspired by what I find on the Internet many of these data structures and algorithms will be either widely known accepted data structures and algorithms or sufficently unique as they are modified from other sources.
 
+Thank you for stopping by and checking out this resource.
+
