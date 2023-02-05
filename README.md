@@ -23,9 +23,9 @@ One of the most important concepts in algorithms is the idea of a sorting algori
 
 Another important concept in algorithms is searching. Searching algorithms are used to find a particular item in a collection of data. Some common searching algorithms include linear search and binary search. Linear search is a simple technique that searches for an item by checking each item in the collection one by one, while binary search is a more efficient algorithm that takes advantage of the sorted nature of the data to quickly find the item being searched for.
 
-In conclusion, Data Structures and Algorithms form the foundation of computer science. Understanding these concepts is crucial for developing efficient and effective software systems. Whether you are a computer science student or a professional software developer, having a solid understanding of data structures and algorithms is an essential part of your skillset.
+ Data Structures and Algorithms form the foundation of computer science. Understanding these concepts is crucial for developing efficient and effective software systems. Whether you are a computer science student or a professional software developer, having a solid understanding of data structures and algorithms is an essential part of your skillset.
 
-+ Further, more programming languages will be added as I become more familiar with them and have the resources to handle them.
+Further, more programming languages will be added as I become more familiar with them and have the resources to handle them.
 
 
 The manner of which these code examples are organized is a work in progress, however, here is a small outline of what is contained in this repository.
