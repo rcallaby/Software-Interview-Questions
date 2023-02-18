@@ -22,6 +22,7 @@ int minimum(int a, int b, int c)
 void compute_energy(void)
 {
     int i, j;
+    int mid;
     for (i = 0; i < M; i++)
     {
         for (j = 0; j < N; j++)
@@ -43,7 +44,8 @@ void compute_energy(void)
                 bottom = 0x3f3f3f3f;
             else
                 bottom = abs(image[i + 1][j] - image[i][j]);
-            energy[i][j] = mininum(left, right, (minimum(top, bottom)));
+            mid = minimum(top, bottom);
+            energy[i][j] = mininum(left, right, mid);
         }
     }
 }
