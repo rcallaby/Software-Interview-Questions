@@ -29,6 +29,8 @@ Further, more programming languages will be added as I become more familiar with
 
 The manner of which these code examples are organized is a work in progress, however, here is a small outline of what is contained in this repository.
 
+### Table of Contents
+
 * Array Manipulation Algorithms
 * Binary Search Algorithms
 * Hash Tables
