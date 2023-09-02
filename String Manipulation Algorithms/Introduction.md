@@ -1,4 +1,4 @@
-<strong>String Manipulation Algorithms</strong>
+# String Manipulation Algorithms
 
 Some of the classic tests used in job interviews is how to manipulate strings. Not only does this act as a proxy for your programming knowledge and problem solving but it can be used to see if you are properly prepared for the job interview.
 

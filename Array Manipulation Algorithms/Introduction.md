@@ -1,4 +1,4 @@
-<strong>Array Manipulation Algorithms<strong>
+# Array Manipulation Algorithms
 
 There are many variations of these algorithms out in the wild. You should anticipate that some of these questions will be modified so that they are unique. Practicing on unique questions will get you farther in your career.
 

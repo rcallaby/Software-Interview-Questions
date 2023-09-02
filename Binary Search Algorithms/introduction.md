@@ -1,4 +1,4 @@
-<strong>Binary Search Algorithms</strong>
+# Binary Search Algorithms
 
 Binary search algorithms are a fundamental concept in computer science, and understanding them is crucial for both technical interviews and real-world scenarios. The basic idea behind a binary search algorithm is to divide a list of elements in half, and then repeatedly divide the remaining list in half until the desired element is found. This process is much faster than a linear search, which checks every element in the list until the desired element is found.
 

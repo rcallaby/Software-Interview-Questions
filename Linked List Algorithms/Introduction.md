@@ -1,4 +1,4 @@
-<strong>Linked List Algorithms</strong>
+# Linked List Algorithms
 
 The linked list is a common data structure. As such, it is commonly tested in coding interviews and it is a good thing to know just for common knowledge.
 

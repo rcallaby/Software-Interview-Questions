@@ -1,4 +1,4 @@
-<strong>Hash Tables</strong>
+# Hash Tables
 
 A hash table, also known as a hash map, is a data structure that is used to implement an associative array, which is a collection of key-value pairs. The keys in a hash table are unique, and they are used to map to a specific value in the table. Hash tables are used in a wide variety of applications, including database indexing, caches, and data compression.
 
