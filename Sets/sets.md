@@ -1,4 +1,4 @@
-# sets
+# Sets
 
 Sets are an important concept in computer science as they provide a way to represent and manipulate collections of data. In this article, we'll discuss the significance of learning about sets, specifically the Cartesian set, in computer science.
 
