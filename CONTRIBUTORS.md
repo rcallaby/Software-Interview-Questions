@@ -4,5 +4,5 @@ Below you will find a list of all those who have given their time to contribute 
 
 ## Contributors
 
-Richard Callaby - Main Author
-Hemant Soni - Added essential edits
+[Richard Callaby](http://www.richardcallaby.dev) - Main Author
+[Hemant Soni](https://github.com/hemantsoni42) - Added essential edits
