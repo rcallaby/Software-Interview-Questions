@@ -31,16 +31,16 @@ The manner of which these code examples are organized is a work in progress, how
 
 ### Table of Contents
 
-* Array Manipulation Algorithms
-* Binary Search Algorithms
-* Hash Tables
-* Data Structures
-* Linked List
-* Image Processing
-* Mathematics Algorithms
-* Miscelleanous
-* Sets
-* String Manipulation Algorithms
+- [Array Manipulation Algorithms](https://github.com/rcallaby/Software-Interview-Questions/tree/main/Array-Manipulation-Algorithms)
+- [Binary Search Algorithms](https://github.com/rcallaby/Software-Interview-Questions/tree/main/Binary-Search-Algorithms)
+- [Hash Tables](https://github.com/rcallaby/Software-Interview-Questions/tree/main/Hash-Tables)
+- [Data Structures](https://github.com/rcallaby/Software-Interview-Questions/tree/main/Data-Structures)
+- [Linked List](https://github.com/rcallaby/Software-Interview-Questions/tree/main/Linked-List-Algorithms)
+- [Image Processing](https://github.com/rcallaby/Software-Interview-Questions/tree/main/Image-Processing)
+- [Mathematics Algorithms](https://github.com/rcallaby/Software-Interview-Questions/tree/main/Mathematics-Algorithms)
+- [Miscelleanous](https://github.com/rcallaby/Software-Interview-Questions/tree/main/Miscellaneous-Questions)
+- [Sets](https://github.com/rcallaby/Software-Interview-Questions/tree/main/Sets)
+- [String Manipulation Algorithms](https://github.com/rcallaby/Software-Interview-Questions/tree/main/String-Manipulation-Algorithms)
 
 As well, these algorithms or questions do not come from any one external source. While some may be inspired by what I find on the Internet many of these questions will be either widely known accepted questions or sufficently unique as they are modified from other sources.
 
