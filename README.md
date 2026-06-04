@@ -35,7 +35,7 @@ The manner of which these code examples are organized is a work in progress, how
 - [Binary Search Algorithms](https://github.com/rcallaby/Software-Interview-Questions/tree/main/Binary-Search-Algorithms)
 - [Hash Tables](https://github.com/rcallaby/Software-Interview-Questions/tree/main/Hash-Tables)
 - [Data Structures](https://github.com/rcallaby/Software-Interview-Questions/tree/main/Data-Structures)
-- [Graphs]
+- [Graphs](https://github.com/rcallaby/Software-Interview-Questions/blob/main/Graphs/introduciton.md)
 - [Linked List](https://github.com/rcallaby/Software-Interview-Questions/tree/main/Linked-List-Algorithms)
 - [Image Processing](https://github.com/rcallaby/Software-Interview-Questions/tree/main/Image-Processing)
 - [Mathematics Algorithms](https://github.com/rcallaby/Software-Interview-Questions/tree/main/Mathematics-Algorithms)

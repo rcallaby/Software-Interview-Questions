@@ -1,6 +1,5 @@
 # Contributing to the Software Interview Questions Repository
 
-
 ## Here are the guidelines we follow:
 
 Submitting a Question or Solution
